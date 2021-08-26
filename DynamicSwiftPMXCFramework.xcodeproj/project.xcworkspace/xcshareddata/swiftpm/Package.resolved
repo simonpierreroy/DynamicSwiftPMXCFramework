@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "demo-issue-dep",
+        "repositoryURL": "https://github.com/simonpierreroy/demo-issue-dep.git",
+        "state": {
+          "branch": "master",
+          "revision": "2c86c057ab98ac7e36cc05e5c12d398adedc0adf",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
